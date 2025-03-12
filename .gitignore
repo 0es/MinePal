@@ -1,6 +1,7 @@
 .vscode/
 node_modules/
 package-lock.json
+yarn.lock
 code_records/
 scratch.js
 bots/**/action-code/**
